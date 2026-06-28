@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Greenline Projects">
+  <circle cx="60" cy="60" r="56" fill="#1B9D44"/>
+  <circle cx="60" cy="60" r="48" fill="#fff"/>
+  <circle cx="60" cy="60" r="40" fill="#1B9D44" opacity="0.15"/>
+  <!-- Leaves -->
+  <ellipse cx="45" cy="52" rx="14" ry="22" fill="#1B9D44" transform="rotate(-30 45 52)"/>
+  <ellipse cx="75" cy="52" rx="14" ry="22" fill="#158a3a" transform="rotate(30 75 52)"/>
+  <ellipse cx="60" cy="42" rx="12" ry="20" fill="#1B9D44"/>
+  <!-- Globe lines -->
+  <ellipse cx="60" cy="72" rx="22" ry="14" fill="none" stroke="#1B9D44" stroke-width="2"/>
+  <line x1="38" y1="72" x2="82" y2="72" stroke="#1B9D44" stroke-width="1.5"/>
+  <line x1="60" y1="58" x2="60" y2="86" stroke="#1B9D44" stroke-width="1.5"/>
+  <!-- Accent dots -->
+  <circle cx="38" cy="38" r="5" fill="#2196F3"/>
+  <circle cx="82" cy="38" r="5" fill="#E53935"/>
+  <circle cx="60" cy="28" r="4" fill="#1B9D44"/>
+</svg>
