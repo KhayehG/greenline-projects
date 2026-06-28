@@ -112,7 +112,7 @@ greenline-projects/
 **Khayelihle Genius Dlamini**
 
 - GitHub: [@KhayehG](https://github.com/KhayehG)
-- Email: [mrdlamini321@gmail.com](mailto:mrdlamini321@gmail.com)
+- Email: [www.mrdlamini321@gmail.com](mailto:www.mrdlamini321@gmail.com)
 - Phone: 074 842 4792
 
 ---
